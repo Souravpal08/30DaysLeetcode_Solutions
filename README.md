@@ -14,18 +14,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0027-remove-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0075-sort-colors) |
+
 <!---LeetCode Topics End-->
 I have taken a challenge of 30 days leetcode where I will consistently solving prbolems for 30 days and pushing it here.
 

@@ -12,7 +12,11 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0001-two-sum](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0027-remove-element) |
-
+| [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 I have taken a challenge of 30 days leetcode where I will consistently solving prbolems for 30 days and pushing it here.
 

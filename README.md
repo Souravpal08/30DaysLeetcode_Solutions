@@ -36,10 +36,15 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
 I have taken a challenge of 30 days leetcode where I will consistently solving prbolems for 30 days and pushing it here.
 

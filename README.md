@@ -16,31 +16,8 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-## Tree
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
-| [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
+
+
 ## String
 |  |
 | ------- |

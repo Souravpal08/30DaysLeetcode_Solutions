@@ -21,7 +21,12 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 I have taken a challenge of 30 days leetcode where I will consistently solving prbolems for 30 days and pushing it here.
 

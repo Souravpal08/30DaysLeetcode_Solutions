@@ -38,6 +38,11 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
  
 

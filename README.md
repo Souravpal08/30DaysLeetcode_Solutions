@@ -12,6 +12,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0001-two-sum](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -33,6 +34,10 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
  
 

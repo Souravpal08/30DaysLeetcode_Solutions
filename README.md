@@ -12,6 +12,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0001-two-sum](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |

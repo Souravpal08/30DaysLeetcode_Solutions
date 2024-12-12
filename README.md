@@ -17,6 +17,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -39,10 +40,24 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
  
 

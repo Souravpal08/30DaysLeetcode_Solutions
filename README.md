@@ -18,6 +18,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0088-merge-sorted-array](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -51,6 +52,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -59,7 +61,16 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
  
 

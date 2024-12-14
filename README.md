@@ -19,6 +19,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -62,6 +64,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |

@@ -74,6 +74,14 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
  
 

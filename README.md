@@ -21,6 +21,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,10 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
  
 

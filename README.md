@@ -81,11 +81,13 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |

@@ -26,6 +26,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0020-valid-parentheses) |
@@ -57,6 +58,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
  

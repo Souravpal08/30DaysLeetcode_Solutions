@@ -30,6 +30,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0008-string-to-integer-atoi](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
 ## Stack
@@ -101,11 +102,16 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
  
 

@@ -33,6 +33,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +113,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
  
 

@@ -44,6 +44,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -114,6 +116,10 @@ I will try to solve different kind of problems in this 30 days. And yes if you w
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Souravpal08/30DaysLeetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
  
 
